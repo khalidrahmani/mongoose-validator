@@ -24,7 +24,7 @@
     "models",
     "schema"
   ],
-  "repository": "git://github.com/leepowellcouk/mongoose-validator",
+  "repository": "git://github.com/khalidrahmani/mongoose-validator",
   "main": "./lib/mongoose-validator",
   "scripts": {
     "test": "mocha -R list"
